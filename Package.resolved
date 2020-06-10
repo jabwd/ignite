@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Runloop",
+        "repositoryURL": "https://github.com/jabwd/Runloop.git",
+        "state": {
+          "branch": null,
+          "revision": "173a2d868016a8224d4e051576aa3a0e4a9c476a",
+          "version": "0.1.1"
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser.git",
+        "state": {
+          "branch": null,
+          "revision": "3d79b2b5a2e5af52c14e462044702ea7728f5770",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
